@@ -1,0 +1,13 @@
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\bin\Debug\netcoreapp3.1\Ex1-VacuumWorld.exe
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\bin\Debug\netcoreapp3.1\Ex1-VacuumWorld.deps.json
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\bin\Debug\netcoreapp3.1\Ex1-VacuumWorld.runtimeconfig.json
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\bin\Debug\netcoreapp3.1\Ex1-VacuumWorld.runtimeconfig.dev.json
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\bin\Debug\netcoreapp3.1\Ex1-VacuumWorld.dll
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\bin\Debug\netcoreapp3.1\Ex1-VacuumWorld.pdb
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\obj\Debug\netcoreapp3.1\Ex1-VacuumWorld.csprojAssemblyReference.cache
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\obj\Debug\netcoreapp3.1\Ex1-VacuumWorld.AssemblyInfoInputs.cache
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\obj\Debug\netcoreapp3.1\Ex1-VacuumWorld.AssemblyInfo.cs
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\obj\Debug\netcoreapp3.1\Ex1-VacuumWorld.csproj.CoreCompileInputs.cache
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\obj\Debug\netcoreapp3.1\Ex1-VacuumWorld.dll
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\obj\Debug\netcoreapp3.1\Ex1-VacuumWorld.pdb
+C:\Users\leandro.fagundes\Source\Repos\inteligencia-artificial\src\csharp\problems\Ex1-VacuumWorld\Ex1-VacuumWorld\obj\Debug\netcoreapp3.1\Ex1-VacuumWorld.genruntimeconfig.cache
